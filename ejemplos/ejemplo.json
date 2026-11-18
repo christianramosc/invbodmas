@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "slug": "sofiaymateo",
+  "site_url": "",
+  "novios": {
+    "nombre1": "Sofía",
+    "nombre2": "Mateo",
+    "monograma": "S&M",
+    "texto": "Sofía & Mateo"
+  },
+  "fecha": "2027-04-17",
+  "hora_inicio": "18:00",
+  "hora_fin": "00:00",
+  "zona": "-06:00",
+  "ciudad": "Guadalajara",
+  "hashtag": "#SofiaYMateo2027",
+  "fecha_limite": "2027-03-17",
+  "diseno": {
+    "paleta": "Gris azulado",
+    "tono": 210,
+    "saturacion": 1.0,
+    "fuente_script": "Pinyon Script",
+    "fuente_serif": "Cormorant Garamond",
+    "fuente_sans": "Montserrat",
+    "estilo": "clasico",
+    "sello": "negro"
+  },
+  "funciones": {
+    "sobre3d": true,
+    "petalos": true,
+    "fuegos": true,
+    "sonido_fuegos": true
+  },
+  "secciones": {
+    "frase": true,
+    "cuenta_regresiva": true,
+    "lugar": true,
+    "itinerario": true,
+    "vestimenta": true,
+    "sin_ninos": true,
+    "galeria": true,
+    "regalos": true,
+    "confirmacion": true,
+    "padres": false,
+    "hospedaje": false
+  },
+  "musica": {
+    "activa": true,
+    "inicio": 0,
+    "volumen": 0.7,
+    "nombre": ""
+  },
+  "frase": {
+    "texto": "El amor no consiste en mirarse el uno al otro, sino en mirar juntos en la misma dirección.",
+    "autor": "Antoine de Saint-Exupéry"
+  },
+  "lugares": [
+    {
+      "titulo": "El lugar",
+      "subtitulo": "Ceremonia civil y recepción",
+      "hora": "",
+      "nombre": "Jardín de ejemplo",
+      "direccion": "Calle Ejemplo 123, Col. Centro, Guadalajara, Jal.",
+      "mapa": "https://maps.google.com/"
+    }
+  ],
+  "itinerario": [
+    {
+      "hora": "18:00 h",
+      "titulo": "Ceremonia civil",
+      "descripcion": "El momento de nuestro “sí, acepto”",
+      "icono": "anillos"
+    },
+    {
+      "hora": "19:00 h",
+      "titulo": "Recepción",
+      "descripcion": "Brindemos juntos por el amor",
+      "icono": "brindis"
+    },
+    {
+      "hora": "20:00 h",
+      "titulo": "Cena",
+      "descripcion": "Compartamos la mesa y la alegría",
+      "icono": "cena"
+    },
+    {
+      "hora": "00:00 h",
+      "titulo": "Despedida",
+      "descripcion": "Cerramos la noche con el corazón lleno",
+      "icono": "luna"
+    }
+  ],
+  "vestimenta": {
+    "codigo": "Formal",
+    "mostrar_figuras": true,
+    "etiqueta_traje": "Traje oscuro",
+    "etiqueta_vestido": "Vestido largo",
+    "nota": "Amablemente, les pedimos reservar el color blanco para la novia."
+  },
+  "regalos": [
+    {
+      "tienda": "Liverpool",
+      "etiqueta": "Número de evento",
+      "numero": "00000000",
+      "enlace": "https://mesaderegalos.liverpool.com.mx/",
+      "boton": "Ir a Liverpool",
+      "nota": ""
+    }
+  ],
+  "contactos": [
+    {
+      "nombre": "Sofía",
+      "telefono": "3300000000"
+    },
+    {
+      "nombre": "Mateo",
+      "telefono": "3300000001"
+    }
+  ],
+  "fotos": [],
+  "textos": {
+    "evento_de": "la boda de",
+    "titulo_evento": "Boda de Sofía & Mateo",
+    "og_descripcion": "Toquen para abrir su invitación.",
+    "intro": "Con todo nuestro afecto, para ustedes",
+    "toque": "Toquen el sello para abrir",
+    "hero_kicker": "Nos casamos",
+    "pase_para": "Invitación para",
+    "pase_reservado": "Con mucha ilusión hemos reservado",
+    "pase_singular": "lugar en su honor",
+    "pase_plural": "lugares en su honor",
+    "cuenta_regresiva": "Contamos los días para celebrar con ustedes",
+    "guarden_fecha": "Guarden la fecha",
+    "lugar_eyebrow": "Nos encantará compartir con ustedes",
+    "lugar_titulo": "El gran día",
+    "como_llegar": "Cómo llegar",
+    "itinerario_eyebrow": "Itinerario",
+    "itinerario_titulo": "Nuestra celebración",
+    "vestimenta_eyebrow": "Código de vestimenta",
+    "sin_ninos_titulo": "Evento sin niños",
+    "sin_ninos_nota": "Amamos a sus pequeños, pero en esta ocasión la invitación es únicamente para adultos. ¡Gracias por su comprensión!",
+    "galeria_eyebrow": "Nuestra historia",
+    "galeria_titulo": "Momentos",
+    "regalos_eyebrow": "Mesa de regalos",
+    "regalos_titulo": "Con gratitud",
+    "regalos_nota": "Su presencia es nuestro mejor regalo. Si desean tener un detalle con nosotros, aquí está nuestra mesa de regalos:",
+    "copiar": "Copiar número",
+    "copiado": "¡Número copiado!",
+    "copiado_aviso": "Número de evento copiado",
+    "rsvp_eyebrow": "R.S.V.P.",
+    "rsvp_titulo": "¿Nos acompañan?",
+    "rsvp_texto": "Nos hará muy felices contar con ustedes.",
+    "limite_titulo": "Fecha límite para confirmar",
+    "confirmar": "Confirmar",
+    "gracias": "Gracias por ser parte de nuestra historia.",
+    "firma": "Con amor,",
+    "padres_eyebrow": "Con la bendición de",
+    "padres_titulo": "Nuestras familias",
+    "hospedaje_eyebrow": "Para quienes vienen de fuera",
+    "hospedaje_titulo": "Hospedaje",
+    "hospedaje_nota": "Les compartimos algunas opciones cercanas al lugar."
+  },
+  "efectos": {
+    "fondo": "petalos",
+    "apertura": "petalos",
+    "final": "fuegos",
+    "toque": false
+  },
+  "familia": [
+    {
+      "grupo": "Padres de la novia",
+      "nombres": "Nombre y apellido; Nombre y apellido"
+    },
+    {
+      "grupo": "Padres del novio",
+      "nombres": "Nombre y apellido; Nombre y apellido"
+    },
+    {
+      "grupo": "Padrinos",
+      "nombres": "Nombre y apellido; Nombre y apellido"
+    }
+  ],
+  "hospedaje": [
+    {
+      "nombre": "Hotel sugerido",
+      "detalle": "A 10 minutos del lugar. Tarifa especial para invitados.",
+      "codigo": "",
+      "telefono": "",
+      "enlace": ""
+    }
+  ]
+}
